@@ -1,0 +1,11 @@
+{
+  "name": "a-simple-node-website",
+  "version": "1.0.0",
+  "description": "A website made with node js that contain 4 pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Olayanju",
+  "license": "ISC"
+}
