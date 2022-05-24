@@ -28,6 +28,7 @@ http.createServer(function (request, response) {
           break;
   }
 
+  
 fs.readFile(path, (error, result) => {
     if (error) {
         console.log(error);
